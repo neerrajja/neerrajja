@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Neeraja
-- 
-- 🌱 I’m currently learning mca
-- 💞
-
-
-<!---
-neerrajja/neerrajja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+passionate and enthusiastic developer with a background in Mathematics and Computer Applications (MCA).
+I have a strong interest in Python development, data science, and web development,
+and I am actively expanding my skills in tools like pandas, Matplotlib, and SQL.
